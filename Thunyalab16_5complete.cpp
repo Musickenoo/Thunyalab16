@@ -29,8 +29,8 @@ void shuffle(int *w,int *x,int *y,int *z){
 			}
 		}
 	}
-	*w = katujik[kasakjai[0]];
-	*x = katujik[kasakjai[1]];
-	*y = katujik[kasakjai[2]];
-	*z = katujik[kasakjai[3]];
+	*w = katujik[kasakjai[0]] ;
+	*x = katujik[kasakjai[1]] ;
+	*y = katujik[kasakjai[2]] ;
+	*z = katujik[kasakjai[3]] ;
 }
